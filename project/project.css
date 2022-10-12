@@ -1,0 +1,167 @@
+html{
+  width: 100%;
+}
+header{
+  height: 9%;
+}
+body{
+  height: 90%;
+}
+
+#nav-logo{
+  width: 14px;
+  height: 10px;
+  display: block;
+  
+}
+.main_body{
+    background-color:#F9F9FF;
+    height: 1100px;
+}
+header {
+  display: block;
+
+  
+}
+.logo{
+  text-align: left;
+}
+.nav-menu-container{
+  text-align: right;
+}
+#header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  transition: all 0.5s;
+  z-index: 997;
+  background: #fff;
+}
+.first-style{
+   text-align: center;
+   margin-top: 280px;
+   letter-spacing: 2px;
+   margin-right: 145px;
+
+}
+.name{
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 72px;
+  color: #222222;
+}
+.thisisme{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color:#222222
+}
+.overview{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 23px;
+  color:#777777
+}
+.img-men{
+  
+  display: inline;
+  margin-top: 200px;
+  margin-left: 700;
+
+}
+.button:hover{
+  color:blue;
+  box-shadow: aqua;
+}
+.button.background{
+      background-color: #74A4FD;
+}
+.about-me{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color:#222222;
+  letter-spacing: 2px;
+}
+.personal-details{
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  color:#222222;
+  font-style: normal;
+
+}
+.reviewabouthim{
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 23px;
+  color:#777777;
+}
+.him{
+  font-weight: 400;
+  font-size: 29px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+ 
+  line-height: 33px;
+  color:#777777;
+  margin-top: 20px;
+}
+.personaldata{
+  justify-content:right;
+  margin-bottom: 200;
+  float: right;
+  margin-right: 300;
+  margin-left: 200;
+}
+.main_body2{
+ margin-top: 150px;
+ flex: 1;
+ 
+
+}
+.men{
+  margin-top: 90px;
+  flex: 1;
+ text-align: center;
+}
+.single-services {
+  text-align: center;
+  margin-top: 60px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+body {
+  color: #777777;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.625em;
+  position: relative;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
