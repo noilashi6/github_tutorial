@@ -102,8 +102,6 @@
 //   } else {
 //     return "between 5 and 10"
 //   }
-    
- 
 // }
 // console.log(TestElse(7));
 
