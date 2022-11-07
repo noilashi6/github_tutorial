@@ -1,0 +1,49 @@
+body{
+  background: linear-gradient(to right, #33ccff 15%, #9933ff 100%)
+}
+a{
+  text-decoration: none;
+}
+.container {
+  background-color: white;
+  width: 250px;
+  border-radius: 10px;
+  height: 250px;
+  
+}
+div{
+   margin-top: 150px;
+   margin-left: 250px;
+}
+.h2{
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  padding-top: 10px;
+}
+.h3{
+  margin-left: 75px;
+  width: 130px;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+}
+.sall{
+  font-size: xx-small;
+  margin-left: 3px;
+}
+.button2 {
+  background-color: #3399FF;
+  border-radius: 6px;
+  border-style: none;
+}
+
+.salll{
+  font-size: xx-small;
+  text-align: center;
+  margin-left: 80px;
+}
